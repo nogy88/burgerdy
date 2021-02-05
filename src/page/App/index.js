@@ -55,7 +55,7 @@ class App extends Component {
         />
         <main className={style.Content}>
           
-          User ID: {this.props.userId}
+          {/* User ID: {this.props.userId} */}
 
           {this.props.userId ? (
           <Switch>
