@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/burgerdy/static/css/main.77e9bfe1.chunk.css",
-    "main.js": "/burgerdy/static/js/main.5b137e94.chunk.js",
-    "main.js.map": "/burgerdy/static/js/main.5b137e94.chunk.js.map",
+    "main.js": "/burgerdy/static/js/main.0ab8c970.chunk.js",
+    "main.js.map": "/burgerdy/static/js/main.0ab8c970.chunk.js.map",
     "runtime-main.js": "/burgerdy/static/js/runtime-main.fb9a14b7.js",
     "runtime-main.js.map": "/burgerdy/static/js/runtime-main.fb9a14b7.js.map",
     "static/js/2.1fb0107f.chunk.js": "/burgerdy/static/js/2.1fb0107f.chunk.js",
     "static/js/2.1fb0107f.chunk.js.map": "/burgerdy/static/js/2.1fb0107f.chunk.js.map",
     "index.html": "/burgerdy/index.html",
-    "precache-manifest.f3cb4d8234239198783d9d9299aeff87.js": "/burgerdy/precache-manifest.f3cb4d8234239198783d9d9299aeff87.js",
+    "precache-manifest.313535fd98b61f57a55126bc8ecf363e.js": "/burgerdy/precache-manifest.313535fd98b61f57a55126bc8ecf363e.js",
     "service-worker.js": "/burgerdy/service-worker.js",
     "static/css/main.77e9bfe1.chunk.css.map": "/burgerdy/static/css/main.77e9bfe1.chunk.css.map",
     "static/js/2.1fb0107f.chunk.js.LICENSE.txt": "/burgerdy/static/js/2.1fb0107f.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fb9a14b7.js",
     "static/js/2.1fb0107f.chunk.js",
     "static/css/main.77e9bfe1.chunk.css",
-    "static/js/main.5b137e94.chunk.js"
+    "static/js/main.0ab8c970.chunk.js"
   ]
 }
